@@ -54,8 +54,5 @@ To Use, simply Wrap the Widget you want to add Focused Menu to, with FocusedMenu
               ),
 ```
 
-## Roadmap
-Plans to add more customizations.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
